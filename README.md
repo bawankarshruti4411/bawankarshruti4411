@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Scholarship Eligibility Model<br>👯 I’m looking to collaborate on portfolio<br>🤝 I’m looking for help with DSA<br>🌱 I’m currently learning Data Science<br>💬 Ask me about CyberSecurity
+🔭 I’m currently working on Personalised Study Material Generator<br>👯 I’m looking to collaborate on portfolio<br>🤝 I’m looking for help with DSA<br>🌱 I’m currently learning Data Science<br>💬 Ask me about CyberSecurity
 
 
 ## 🌐 Socials:
